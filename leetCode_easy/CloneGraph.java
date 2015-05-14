@@ -20,7 +20,7 @@ Visually, the graph looks like the following:
          \_/
  */
 
-package leetCode;
+package leetCode_easy;
 
 import java.util.HashSet;
 import java.util.Set;

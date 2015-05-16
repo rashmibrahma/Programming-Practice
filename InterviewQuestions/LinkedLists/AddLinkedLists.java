@@ -8,6 +8,18 @@ Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
  * 
  */
+ 
+ /*
+ Node definition:
+ public class Node {
+	int x;
+	Node next;
+	public Node(int x){
+		this.x=x;
+		this.next=null;
+	}
+}
+ */
 
 package interviewQuestions;
 

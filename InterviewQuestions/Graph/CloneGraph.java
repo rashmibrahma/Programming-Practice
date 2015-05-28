@@ -23,9 +23,7 @@ Visually, the graph looks like the following:
 package leetCode_easy;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedList;
-import java.util.Set;
 
 /**
  * Definition for undirected graph.
